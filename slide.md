@@ -11,24 +11,89 @@ size: 16:9
 footer: "[@aldrinjenson](https://www.aldrinjenson.tech)"
 ---
 
-# HELLO EVERYONE✨
+<!-- notes -->
+<!-- make it relatable -->
+<!-- talk about MEC -->
+
+# Hey folks👋✨
 
 Good evening
 Let's learn about something new today!
 
 ---
 
-<!-- {.dark} -->
+## This talk is going to be about **software**
 
-# Introducton to FOSS
+---
 
-Aldrin Jenson
+## what kind of software?
 
-<p class="small-text">Some smaller text at the footer of the page.</p>
+<!-- what kind of sotwre? -->
+<!-- the -->
 
-![bg right w:500 h:500](./aldrin.jpg)
+- the software that helps the NSA know your intenet seaches!
+- the tye that let's you have a **smart** phone for under 15k.
+- the type that determines your **placements!**
 
-<!-- some text -->
+---
+
+## But that's not all
+
+this talk is also about:
+
+- Independence
+- Respect
+- Developer Journey
+- MEC
+
+---
+
+## Quick question
+
+<!-- everyone know about FoSSMEC-->
+<!-- how many of you clearly know why they exist -->
+
+<!-- how many of  -->
+<!-- ask why mec placements is so great? -->
+
+---
+
+# Introduction to FOSS
+
+What it really is
+and
+Why you **should care**
+
+<!-- ![bg right w:500 h:500](./aldrin.jpg) -->
+
+---
+
+## $whoami
+
+![bg right w:400 h:400](./aldrin.jpg)
+
+## **Aldrin Jenson**
+
+- Software Engineer at **Parseable**
+- MEC Alumni
+- Volnter at **IndiaFOSS**
+
+---
+
+# Okay, Let's now talk about **Masala Dosa**
+
+---
+
+Let's talk about John
+
+---
+
+# Let's get to know each other
+
+<!-- what is FOSS -->
+<!-- what comes to your mind when you hear about FOSS -->
+
+---
 
 ---
 
@@ -42,6 +107,14 @@ Just so we are all on the same page
 
 ---
 
+# Let's talk abot MicrosDosa
+
+<!-- can't share -->
+<!-- can't modify -->
+<!-- cant' see what's inside -->
+
+---
+
 # What is FOSS
 
 Any software which satisfies the **4 freedoms**
@@ -50,12 +123,18 @@ Any software which satisfies the **4 freedoms**
 
 # The 4 Freedoms
 
-<!-- expand todifferent sldes -->
+<!-- expand to different sldes -->
 
-- Freedom 0: The freedom to use the software for any purpose.
+- Freedom 0: The freedom to use the software for **any purpose**.
 - Freedom 1: The freedom to study how the software works and modify it.
 - Freedom 2: The freedom to redistribute copies of the software.
 - Freedom 3: The freedom to distribute modified copies of the software.
+
+---
+
+<!-- 150+ computers in MEC -->
+
+![bg w:100%](windows-cost.jpg)
 
 ---
 
@@ -117,6 +196,9 @@ Finally,
 - Figure out if they are FOSS
 - If not, see if you can switch to a FOSS alternative.
 
+Look a FDROID
+good to contribute
+
 ---
 
 # Contributing back to the community
@@ -139,4 +221,4 @@ If you know to code,
 
 ---
 
-![](2023-10-05-07-24-55.png)
+![gsoc-logo](2023-10-05-07-24-55.png)
