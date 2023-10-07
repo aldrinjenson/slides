@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: custom
-title: Introduction to FOSS -- imprve
+title: Introduction to FOSS
 description: Talk to introduce everyone to FOSS
 author: Aldrin Jenson
 keywords: [FOSS, Introduction]
@@ -28,7 +28,7 @@ Let's learn about something new today!
 
 ## what kind of software?
 
-<!-- what kind of sotwre? -->
+<!-- what kind of software? -->
 <!-- the -->
 
 - the software that made Mark Zuckerberg a billionaire
@@ -51,7 +51,7 @@ this talk is also about:
 ## Quick question
 
 <!-- how many from cs background? -->
-<!-- how many don't have ay programming experiece at all? -->
+<!-- how many don't have ay programming experieece at all? -->
 <!-- what is a program? -->
 
 ---
@@ -60,7 +60,7 @@ What is a **Program**?
 
 ---
 
-A set of instructions written in code that is designed to perform specific tasks or functions **for the user** inorder to accomplish her objectives.
+A set of instructions written in code that is designed to perform specific tasks or functions **for the user** in order to accomplish her objectives.
 
 ---
 
@@ -69,7 +69,7 @@ A set of instructions written in code that is designed to perform specific tasks
 <!-- ask about FOSS United -->
 <!-- ask about IndiaFOSS -->
 
-<!-- everyone know about FoSSMEC-->
+<!-- everyone know about FOSSMEC-->
 <!-- how many of you clearly know why they exist -->
 
 ---
@@ -104,7 +104,7 @@ Why you **should care**
 ## **Aldrin Jenson**
 
 - Software Engineer at **Parseable**
-- Volnter at **IndiaFOSS**
+- Volunteer at **IndiaFOSS**
 - MEC Alumni
 
 ---
@@ -130,7 +130,7 @@ Just so we are all on the same page
 
 ---
 
-# In Propreitay Software,
+# In Proprietary Software,
 
 ---
 
@@ -139,25 +139,25 @@ You pay money to buy software
 <!-- or ofc you get ads -->
 <!-- you can use it till the specified duration -->
 
-<!-- cracked sotware is an option -->
+<!-- cracked software is an option -->
 <!-- but, can you trust it -->
 
 ---
 
-BUT
+### BUT
 
-You can't share with others what you bought
+You **cannot** share with others what you bought
 
 ---
 
-You don't have the right to know how your program functions
+You don't have the right to **know** how your program **functions**
 
 <!-- tax software -->
-<!-- you don't know whati is runnng behind the scees -->
+<!-- you don't know what is is running behind the scenes -->
 
 ---
 
-You can't make any modification to the functionality
+You can't make any modifications to the functionality
 
 ---
 
@@ -188,8 +188,6 @@ Any software which satisfies the **4 freedoms**
 
 ---
 
-<!-- expand to different sldes -->
-
 ## Freedom 0: The freedom to use the software for **any purpose**.
 
 <!-- It's like having a bicycle that you can ride to school, use for exercise, or even decorate as a piece of art—it's your choice! -->
@@ -204,7 +202,7 @@ Any software which satisfies the **4 freedoms**
 
 ## Freedom 2: The freedom to **redistribute copies** of the software.
 
-<!-- Explanation: imagin buying a book and shaing it with your
+<!-- Explanation: imagine buying a book and sharing it with your
 inds after you have read it -->
 
 ---
@@ -237,9 +235,9 @@ The GNU Project
 
 ---
 
-![w:800](2023-10-07-04-23-46.png)
+![w:900](2023-10-07-04-23-46.png)
 
-<!-- mark zucerberg -->
+<!-- mark zuckerberg -->
 <!-- harward, 2004 -->
 
 ---
@@ -257,7 +255,7 @@ The GNU Project
 
 ---
 
-Almost any domain you can think of,
+In almost any domain you can think of,
 FOSS has had an impact
 
 ---
@@ -270,9 +268,15 @@ This is why you should really care
 
 ---
 
-Finally,
+For someone conscious of privacy,
 
-## FOSS is just better!
+## FOSS is just the best!
+
+---
+
+For a Developer,
+
+## FOSS is just the best!
 
 ---
 
@@ -360,7 +364,7 @@ Tell people about FOSS
 
 ## Volunteer
 
-Help make communites better
+Help make communities better
 
 <!-- donate your time -->
 
@@ -403,8 +407,9 @@ If you like to code,
 
 ### Shout out to
 
-- SreeLaxmi
-- Sreelakshmi
+- Sree Laxmi
+- Srilakshmi
+- IB Computing
 </div>
 <hr >
 
@@ -417,9 +422,17 @@ If you like to code,
 </div>
 </div>
 <br/>
-<p style="font-size:29px;">This prsenation was buit with Free Software</p>
+<p style="font-size:29px;">This presentation was built using Free Software</p>
 
 ---
+
+# Few Resources
+
+- https://www.gnu.org/gnu/manifesto.html
+- https://www.debian.org/
+- https://www.youtube.com/watch?v=vwG5N8SCmZ8
+- https://indiafoss.net/2023
+- https://www.youtube.com/watch
 
 ---
 
