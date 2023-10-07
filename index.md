@@ -15,10 +15,10 @@ footer: "[@aldrinjenson](https://www.aldrinjenson.tech)"
 <!-- make it relatable -->
 <!-- talk about MEC -->
 
-# Hello folks👋✨
+# Hello folks!✨
 
-Good evening
-Let's learn about something new today!
+<!-- Good evening -->
+<!-- Let's learn about something new today! -->
 
 ---
 
@@ -31,19 +31,18 @@ Let's learn about something new today!
 <!-- what kind of software? -->
 <!-- the -->
 
-- the software that made Mark Zuckerberg a billionaire
-- the tye that let's you have a **smart** phone for under 15k.
-- the type that determines your **placements!**
+- the software that made **Mark Zuckerberg** drop out of Harward
+- the software that lets us have a **smart-phone** for under 15k.
+- the software that determines our **placements!**
 
 ---
 
 ## But that's not all
 
-this talk is also about:
+This talk is also about:
 
-- Independence
-- Respect
-- Improving Developer Journey
+- Freedom
+- Developer Learnings
 - MEC
 
 ---
@@ -51,7 +50,7 @@ this talk is also about:
 ## Quick question
 
 <!-- how many from cs background? -->
-<!-- how many don't have ay programming experieece at all? -->
+<!-- how many don't have ay programming experience at all? -->
 <!-- what is a program? -->
 
 ---
@@ -60,7 +59,7 @@ What is a **Program**?
 
 ---
 
-A set of instructions written in code that is designed to perform specific tasks or functions **for the user** in order to accomplish her objectives.
+A set of instructions written in code that is designed to perform specific tasks or functions **for the users**, in order to accomplish their objectives.
 
 ---
 
@@ -97,15 +96,27 @@ Why you **should care**
 
 ---
 
-## $whoami
+<div class="columns">
+<div>
 
-![bg right w:400 ](./aldrin.jpg)
+## $whoami
 
 ## **Aldrin Jenson**
 
 - Software Engineer at **Parseable**
 - Volunteer at **IndiaFOSS**
-- MEC Alumni
+- MEC Alumni✨
+
+</div>
+<div style="margin-left:80px;">
+
+![w:350 ](./aldrin.jpg)
+
+### @aldrinjenson
+
+</div>
+
+</div>
 
 ---
 
@@ -270,14 +281,6 @@ FOSS has had an impact
 
 ---
 
-## Any questions so far?
-
----
-
-This is why you should really care
-
----
-
 For someone conscious of privacy,
 
 ## FOSS is just the best!
@@ -290,7 +293,7 @@ For a Developer,
 
 ---
 
-# Getting Started
+# Getting Started with FOSS
 
 ---
 
@@ -359,7 +362,7 @@ good to contribute as well
 
 <!-- 5 slides on ways in which you can contribute back -->
 
-- Bringing people into the resistance
+Bringing more people to defy the status quo
 
 ---
 
@@ -388,7 +391,7 @@ If you like to code,
 
 <div class="columns">
 
-![gsoc-logo](2023-10-05-07-24-55.png)
+![](2023-10-05-07-24-55.png)
 
 ![](2023-10-07-05-40-55.png)
 
@@ -408,18 +411,26 @@ If you like to code,
 
 # Conclusion
 
+<!--  -->
+
+---
+
+## If you have a choice, always consider the software that **respects your freedom**
+
 ---
 
 # Thank You✨
 
 <div class="columns">
-<div style="margin-right:90px;">
+<div style="margin-right:55px;">
 
 ### Shout out to
 
 - Sree Laxmi
 - Srilakshmi
 - IB Computing
+- Titty Jacob Sir(MEC)
+
 </div>
 <hr >
 
@@ -432,14 +443,15 @@ If you like to code,
 </div>
 </div>
 <br/>
-<p style="font-size:29px;">This presentation was built using Free Software</p>
+<p style="font-size:29px;">This presentation was built using Free Software!</p>
 
 ---
 
-# Few Resources
+# Resources
 
 - https://www.gnu.org/gnu/manifesto.html
 - https://www.debian.org/
+- https://www.fsf.org/
 - https://www.youtube.com/watch?v=vwG5N8SCmZ8
 - https://indiafoss.net/2023
 - https://www.youtube.com/watch
@@ -468,7 +480,7 @@ If you like to code,
 
 ---
 
-## 2. FOSS is about bringing **Freedom** to the user
+## 2. FOSS is about bringing **Freedom** to the users
 
 ---
 
