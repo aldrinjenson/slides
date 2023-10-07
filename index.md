@@ -159,7 +159,9 @@ You don't have the right to **know** how your program **functions**
 
 You can't make any modifications to the functionality
 
----
+<!-- youtbt -->
+
+## <!-- hr ytm twitter -->
 
 ## Seems a bit sad no?🥹
 
@@ -175,6 +177,8 @@ You can't make any modifications to the functionality
 ---
 
 # Free software
+
+Sofwar tht resect fte fredo of he usetS
 
 ---
 
@@ -252,6 +256,12 @@ The GNU Project
 <!-- only 5 institutions in India -->
 
 <!-- immense opportunity to learn and explore -->
+
+---
+
+![w:940](2023-10-07-13-50-17.png)
+
+https://diffusion.mec.ac.in
 
 ---
 
