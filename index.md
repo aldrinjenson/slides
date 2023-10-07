@@ -131,17 +131,17 @@ Why you **should care**
 
 ---
 
-# Let's get some basics clear
+<!-- # Let's get some basics clear
 
-Just so we are all on the same page
+Just so we are all on the same page -->
 
 <!-- what is FOSS -->
 <!--  FSF Movement -->
 <!--  -->
 
----
+<!-- --- -->
 
-# In Proprietary Software,
+# ...Proprietary Software,
 
 ---
 
@@ -159,12 +159,17 @@ You pay money to buy software
 
 You **cannot** share with others what you bought
 
+<!-- netflix -->
+<!-- blocking people out -->
+<!-- drm -->
+
 ---
 
 You don't have the right to **know** how your program **functions**
 
 <!-- tax software -->
 <!-- you don't know what is is running behind the scenes -->
+<!-- google chrome -->
 
 ---
 
@@ -172,7 +177,9 @@ You can't make any modifications to the functionality
 
 <!-- youtbt -->
 
-## <!-- hr ytm twitter -->
+<!-- ## hr ytm twitter -->
+
+---
 
 ## Seems a bit sad no?🥹
 
@@ -189,7 +196,7 @@ You can't make any modifications to the functionality
 
 # Free software
 
-Sofwar tht resect fte fredo of he usetS
+Software that respects the freedom of users
 
 ---
 
