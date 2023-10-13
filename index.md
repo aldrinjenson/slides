@@ -12,7 +12,6 @@ footer: "[@aldrinjenson](https://www.aldrinjenson.tech)"
 ---
 
 <!-- notes -->
-<!-- make it relatable -->
 <!-- talk about MEC -->
 
 # Hello folks!✨
@@ -65,10 +64,10 @@ A set of instructions written in code that is designed to perform specific tasks
 
 ## Heard about **FOSS?**
 
-<!-- ask about FOSS United -->
-<!-- ask about IndiaFOSS -->
+<!-- know about FOSS United? -->
+<!-- know about IndiaFOSS? -->
 
-<!-- everyone know about FOSSMEC-->
+<!-- everyone know about FOSSMEC?-->
 <!-- how many of you clearly know why they exist -->
 
 ---
@@ -79,8 +78,7 @@ Another Question
 
 Why MEC?
 
-<!-- how many of  -->
-<!-- ask why mec placements is so great? -->
+<!-- why mec placements is so great? -->
 
 ---
 
@@ -176,7 +174,7 @@ You don't have the right to **know** how your program **functions**
 
 You can't make any modifications to the functionality
 
-<!-- youtbt -->
+<!-- youtube removal of dislike button -->
 
 <!-- ## hr ytm twitter -->
 
@@ -261,7 +259,7 @@ The GNU Project
 ![w:900](2023-10-07-04-23-46.png)
 
 <!-- mark zuckerberg -->
-<!-- harward, 2004 -->
+<!-- Harward, 2004 -->
 
 ---
 
@@ -418,8 +416,6 @@ If you like to code,
 ---
 
 # Conclusion
-
-<!--  -->
 
 ---
 
