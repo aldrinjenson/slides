@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aldrin Jenson's Talks</title>
+    <style>
+      body {
+        font-family: "Arial", sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        background-color: #f4f4f4;
+      }
+
+      h1 {
+        color: #333;
+        text-align: center;
+      }
+
+      .talk-container {
+        width: 60%;
+        background-color: #fff;
+        padding: 15px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+
+      .talk {
+        margin-bottom: 10px;
+        cursor: pointer;
+      }
+
+      a {
+        text-decoration: none;
+        color: #007bff;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="talk-container">
+      <h1>Slides</h1>
+
+      <ol>
+        <li class="talk" onclick="location.href='introduction-to-foss/'">
+          <h2>Introduction to FOSS</h2>
+          <a href="introduction-to-foss/" target="_blank" rel="noopener noreferrer">View slides</a>
+        </li>
+
+        <li class="talk" onclick="location.href='talisman-101/'">
+          <h2>Talisman 101</h2>
+          <a href="talisman-101/" target="_blank" rel="noopener noreferrer">View slides</a>
+        </li>
+      </ol>
+    </div>
+  </body>
+</html>
