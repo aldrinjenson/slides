@@ -1,3 +1,3 @@
 # Slides
 
-Slides made by me for diferrent talks I've had to give
+Collection of slides I've made for various talks
