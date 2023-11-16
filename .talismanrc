@@ -1,0 +1,12 @@
+fileignoreconfig:
+- filename: introduction-to-foss/notes.html
+  checksum: b52d149c801bf4063bfc7bbee8a05dc33c10a7c6ab37423effa71ea3bee85266
+- filename: introduction-to-foss/reference/slide.html
+  checksum: ad7e565846ef7efb6ca68bb989c66b2b831fde6cadeb14759a10ef27a55d4cf3
+- filename: introduction-to-foss/index.html
+  checksum: 85293295e5cdeffcab7952ffd1013e43171c5be60c2a2fc5c48915c74b41ce76
+- filename: introduction-to-foss/reference/slide.md
+  checksum: cb6b9f447f915c01c9952b9ae42a5b8f18ce3237c8ebc56b642110e47693d774
+- filename: introduction-to-foss/index.md
+  checksum: 22e172e853bc7c5e5756f4fe71039f000ab89c159169105a987195cd4fd284e1
+version: ""

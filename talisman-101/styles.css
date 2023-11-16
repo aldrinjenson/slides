@@ -9,7 +9,10 @@
 }
 section {
   /* background-image: url(bg.jpg); */
-  background-image: url(bg2.png);
+  /* background-image: url(bg2.png); */
+  /* background-image: url(minimal-bg.png); */
+  /* background-image: url(minimalBlue.png); */
+  background-image: url(blueWithCorners.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -24,19 +27,7 @@ section {
   gap: 1rem; */
 }
 
-/* 
-:root {
-  --color-background: #ddd;
-  --color-background-code: #ccc;
-  --color-background-paginate: rgba(128, 128, 128, 0.05);
-  --color-foreground: #345;
-  --color-highlight: #99c;
-  --color-highlight-hover: #aaf;
-  --color-highlight-heading: #99c;
-  --color-header: #bbb;
-  --color-header-shadow: transparent;
-} */
+.small-text{
+  font-size: 12px;
 
-/* section { */
-/* background-color: red; */
-/* } */
+}
