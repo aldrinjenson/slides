@@ -10,7 +10,6 @@ size: 16:9
 # footer: "Made with ❤️"
 ---
 
-
 # Good afternoon folks!✨
 
 <!-- Good evening -->
@@ -43,18 +42,16 @@ One that makes us proud to be at **ThoughtWorks**
 
 ---
 
-
 ## /imagine
 
 <p class="small-text">midjourney, anyone?</p>
 
 ---
 
-<!-- 
+<!--
 ![This is Fine](image-1.png)
 
 --- -->
-
 
 ## Well....
 
@@ -62,7 +59,6 @@ One that makes us proud to be at **ThoughtWorks**
 <!-- introducing the hero -->
 
 ---
-
 
 ![h:150](image-4.png)
 
@@ -80,7 +76,6 @@ One that makes us proud to be at **ThoughtWorks**
 
 ---
 
-
 - A tool that installs a **hook** to your git repository to ensure that potential **secrets or sensitive information** do not leave the developer's workstation.
 
 ---
@@ -93,10 +88,9 @@ One that makes us proud to be at **ThoughtWorks**
 
 ![w:1200](image-2.png)
 
-
 ---
 
- 🤯
+🤯
 
 ---
 
@@ -112,10 +106,9 @@ One that makes us proud to be at **ThoughtWorks**
 ### Sources
 
 - <u>github.com/thoughtworks/</u>
-<u>talisman</u>
+  <u>talisman</u>
 - <u>thoughtworks.github.io/</u>
-<u>talisman/docs</u>
-
+  <u>talisman/docs</u>
 
 </div>
 <hr >
@@ -127,9 +120,7 @@ Go Star the Repo!
 
 ![w:450](image.png)
 
-
 </div>
 </div>
 <br/>
 <p style="font-size:29px;">Made with  ❤️ by Aldrin  🤗 </p>
-

@@ -458,7 +458,7 @@ If you like to code,
 - https://www.fsf.org/
 - https://www.youtube.com/watch?v=vwG5N8SCmZ8
 - https://indiafoss.net/2023
-- https://www.youtube.com/watch
+- https://en.wikipedia.org/wiki/Free_software_movement
 
 ---
 
