@@ -10,12 +10,16 @@ size: 16:9
 # footer: "Made with ❤️"
 ---
 
-# _Free_ Software **FTW**
+# Software **Freedoms**
 
 Masala Dosa edition :)
 
 <!-- Good evening -->
 <!-- Let's learn about something new today! -->
+
+---
+
+![w:800](image-3.png)
 
 ---
 
@@ -37,13 +41,11 @@ Masala Dosa edition :)
 
 --- -->
 
-### Let's talk about ❤️
-
-and
-
-## **Masala Dosa**
+![w:800](image-2.png)
 
 ---
+
+![w:800](image-7.png)
 
 ---
 
@@ -54,6 +56,7 @@ and
 - Not able to modify
 
 ---
+
 
 <!-- You feel restricted -->
 <!-- not in control -->
@@ -83,13 +86,13 @@ Think again
 
 ---
 
+![w:900](image-6.png)
+
 ## Seems a bit sad no?🥹
 
 ---
 
-![w:850](stallman.png)
-
-Our Saviour - **RMS**
+![w:900](stallman.png)
 
 ---
 
@@ -119,7 +122,8 @@ Software that respects the freedom of users
 
 ---
 
-# The Free Software Movement
+
+## The Free Software Movement
 
 <!-- read more about it -->
 
@@ -127,20 +131,25 @@ Software that respects the freedom of users
 
 ## Impacts
 
-- Linux, BSD
-- Firefox, Chromium
-- Android
-- VLC media player
-- Blender
+<div class="cols"> 
+<div class="" >
 
-- Python, Ruby, PHP..
-- GNU core utils(ls, cat, echo, grep, gcc, gdb)
-- Apache/Nginx
-- Git
+* Linux, BSD
+* Firefox, Chromium
+* Android
+* VLC media player
+* Blender
+</div>
 
----
+<div class="" >
 
-we are lucky folks!
+* Python, Ruby, PHP
+* GNU core utils(ls, cat, echo, grep, gcc, gdb)
+* Apache/Nginx
+* Git
+</div> 
+
+</div>
 
 ---
 
@@ -164,35 +173,13 @@ we are lucky folks!
 
 ![](./fdroid.png)
 
-good to contribute as well
-
 ---
 
 ## Other steps
 
-- Seriously Consider **Linux**
+- Consider **Linux**
   - Ditch Microsoft, choose Freedom!
 - For Mobile, **Lineage OS** ftw
-
----
-
-## Join Communities
-
-- FOSS United
-- Linux User Groups
-- Open Street Maps
-- r/freesoftware
-- r/foss
-
----
-
-## Conferences and Meetups
-
-- IndiaFOSS
-- DebConf
-- FOSS United Monthly Meetups
-- PyCon
-- FOSSASIA
 
 ---
 
@@ -200,11 +187,11 @@ good to contribute as well
 
 ---
 
-## If you have a choice, always consider software
+## Given a choice, always consider the software
 
 that
 
-## **respects your freedom**
+## **respects user freedom**
 
 ---
 
@@ -216,12 +203,13 @@ that
 ### Resources
 
 <ul clas="left-align">
-  <li class="small-text"> https://www.gnu.org/gnu/manifesto.html </li> 
-  <li class="small-text"> https://www.debian.org/ </li>
-  <li class="small-text"> https://www.fsf.org/ </li>
-  <li class="small-text"> https://www.youtube.com/watch?v=vwG5N8SCmZ8 </li>
-  <li class="small-text"> https://indiafoss.net/2023 </li>
-  <li class="small-text"> https://en.wikipedia.org/wiki/Free_software_movement </li>
+  <li class="small-text"> www.gnu.org/gnu/manifesto.html </li> 
+  <li class="small-text"> www.debian.org/ </li>
+  <li class="small-text"> www.fsf.org/ </li>
+  <li class="small-text"> www.youtube.com/watch?v=vwG5N8SCmZ8 </li>
+  <li class="small-text"> indiafoss.net/2023 </li>
+  <li class="small-text"> en.wikipedia.org/wiki/Free_software_movement </li>
+  <li class="small-text"> slides.aldrinjenson.tech/introduction-to-foss/ </li>
 </ul>
 </div>
 <hr >
@@ -231,11 +219,11 @@ that
 
 <div>
 
-### May the **FOSS** be with you!
+### May the **FOSS** be with you ⚔️
 
 </div>
 
 </div>
 </div>
 <br/>
-<p style="font-size:29px;">This presentation was built using Free Software!</p>
+<p style="font-size:29px;">This presentation was built using Free Software 🤗</p>
