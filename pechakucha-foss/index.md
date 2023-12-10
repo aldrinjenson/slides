@@ -1,13 +1,12 @@
 ---
 marp: true
 theme: custom
-title: Free Software and You
-description: Pechakucha on FOSS
+title: Software Freedom
+description: Pechakucha on Software Freedom
 author: Aldrin Jenson
 keywords: [FOSS, freedom, software, Masala Dosa]
 paginate: true
 size: 16:9
-# footer: "Made with ❤️"
 ---
 
 # Software **Freedoms**
