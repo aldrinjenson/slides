@@ -1,71 +1,89 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Aldrin Jenson's Talks</title>
-    <style>
-      body {
-        font-family: "Arial", sans-serif;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        margin: 0;
-        background-color: #f4f4f4;
-      }
 
-      h1 {
-        color: #333;
-        text-align: center;
-      }
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Aldrin Jenson's Talks</title>
+  <style>
+    body {
+      font-family: "Arial", sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      box-sizing: border-box;
+      overflow-y: scroll;
+      padding: 3%;
+      padding-bottom: 5%;
+    }
 
-      .talk-container {
-        width: 60%;
-        background-color: #fff;
-        padding: 15px;
-        border-radius: 8px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      }
+    h1 {
+      color: #333;
+      text-align: center;
+    }
 
-      .talk {
-        margin-bottom: 10px;
-        cursor: pointer;
-      }
+    .talk-container {
+      width: 80%;
+      max-width: 800px;
+      margin: 0 auto;
+      background-color: #fff;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
 
-      a {
-        text-decoration: none;
-        color: #007bff;
-      }
+    .talk {
+      margin-bottom: 20px;
+      cursor: pointer;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 10px;
+    }
 
-      a:hover {
-        text-decoration: underline;
-      }
-    </style>
-  </head>
+    h2 {
+      color: #333;
+      margin-bottom: 5px;
+    }
 
-  <body>
-    <div class="talk-container">
-      <h1>Slides</h1>
+    a {
+      text-decoration: none;
+      color: #007bff;
+    }
 
-      <ol>
-        <li class="talk">
-          <h2>Introduction to FOSS</h2>
-          <a
-            href="introduction-to-foss/"
-            target="_blank"
-            rel="noopener noreferrer"
-            >View slides</a
-          >
-        </li>
+    a:hover {
+      text-decoration: underline;
+    }
 
-        <li class="talk">
-          <h2>Talisman 101</h2>
-          <a href="talisman-101/" target="_blank" rel="noopener noreferrer"
-            >View slides</a
-          >
-        </li>
-      </ol>
-    </div>
-  </body>
+    .description {
+      color: #555;
+      margin-top: 5px;
+    }
+
+    .tags {
+      color: #777;
+      margin-top: 5px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="talk-container">
+    <h1>Talks & Slides</h1>
+    <p style="text-align: center;">Slides for some presentations and talks I've done. Added here for easy access and
+      reference</p>
+
+    <ol id="talkList" style="margin-top: 5%;">
+      <!-- filled by JS -->
+    </ol>
+
+    <script src="_website/content.js"></script>
+    <script src="_website/script.js"></script>
+    <script>
+      const talkList = document.getElementById("talkList");
+      talks.forEach(function (talk) {
+        const listItem = createTalkEntry(talk.title, talk.link, talk.description, talk.tags, talk.date);
+        talkList.appendChild(listItem);
+      });
+    </script>
+  </div>
+</body>
+
 </html>
