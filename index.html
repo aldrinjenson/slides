@@ -5,63 +5,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Aldrin Jenson's Talks</title>
-  <style>
-    body {
-      font-family: "Arial", sans-serif;
-      background-color: #f4f4f4;
-      margin: 0;
-      box-sizing: border-box;
-      overflow-y: scroll;
-      padding: 3%;
-      padding-bottom: 5%;
-    }
-
-    h1 {
-      color: #333;
-      text-align: center;
-    }
-
-    .talk-container {
-      width: 80%;
-      max-width: 800px;
-      margin: 0 auto;
-      background-color: #fff;
-      padding: 15px;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-
-    .talk {
-      margin-bottom: 20px;
-      cursor: pointer;
-      border-bottom: 1px solid #ddd;
-      padding-bottom: 10px;
-    }
-
-    h2 {
-      color: #333;
-      margin-bottom: 5px;
-    }
-
-    a {
-      text-decoration: none;
-      color: #007bff;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    .description {
-      color: #555;
-      margin-top: 5px;
-    }
-
-    .tags {
-      color: #777;
-      margin-top: 5px;
-    }
-  </style>
+  <link rel="stylesheet" type="text/css" href="_website/styles.css">
 </head>
 
 <body>
@@ -73,6 +17,8 @@
     <ol id="talkList" style="margin-top: 5%;">
       <!-- filled by JS -->
     </ol>
+
+    <button class="toggle-btn" onclick="toggleTheme()">Toggle Theme</button>
 
     <script src="_website/content.js"></script>
     <script src="_website/script.js"></script>

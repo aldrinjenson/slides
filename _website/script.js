@@ -35,3 +35,14 @@ function createTalkEntry(title, link, description, tags, date) {
 
   return listItem;
 }
+
+function toggleTheme() {
+  const body = document.body;
+  body.classList.toggle("light-theme");
+  body.classList.toggle("dark-theme");
+}
+
+const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+if (prefersDark) {
+  toggleTheme();
+}
