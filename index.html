@@ -4,30 +4,45 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Aldrin Jenson's Talks</title>
+  <title>Slides | Aldrin Jenson</title>
   <link rel="stylesheet" type="text/css" href="_website/styles.css">
 </head>
 
 <body>
   <div class="talk-container">
-    <h1>Talks & Slides</h1>
-    <p style="text-align: center;">Slides for some presentations and talks I've done. Added here for easy access and
-      reference</p>
+    <h1 class="heading">Slides Cache - Talk Archive</h1>
+
+    <p class="sub-heading">I am grateful to have received some opportunities to share insights through talks, workshops,
+      and presentations. This page features slides from some of these moments, created as an easy references for
+      interested minds.</p>
 
     <ol id="talkList" style="margin-top: 5%;">
-      <!-- filled by JS -->
+      <!-- filled in by JS -->
     </ol>
 
-    <button class="toggle-btn" onclick="toggleTheme()">Toggle Theme</button>
+
+    <div class="footer">
+      <hr class="separator">
+      <span>Built with ❤️</span>
+      <button class="toggle-btn" onclick="toggleTheme()">Toggle Theme</button>
+    </div>
+
+    <!-- <div class="footer">
+      <button class="toggle-btn" onclick="toggleTheme()">Toggle Theme</button>
+      <span>Built with ❤️</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+      <button class="toggle-btn" onclick="toggleTheme()" style="align-self: flex-start;">Toggle Theme</button>
+      <hr style="width: 50%; margin: 10px 0;">
+      <span style="align-self: center;">Built with ❤️</span>
+    </div> -->
+
 
     <script src="_website/content.js"></script>
     <script src="_website/script.js"></script>
     <script>
-      const talkList = document.getElementById("talkList");
-      talks.forEach(function (talk) {
-        const listItem = createTalkEntry(talk.title, talk.link, talk.description, talk.tags, talk.date);
-        talkList.appendChild(listItem);
-      });
+      generateTalks()
     </script>
   </div>
 </body>

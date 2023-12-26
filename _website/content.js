@@ -1,6 +1,6 @@
 var talks = [
   {
-    title: "Introduction to FOSS",
+    title: "Introduction to FOSS and Why You Should care",
     link: "introduction-to-foss/",
     description:
       "Introducing FOSS and why folks should care about it. Talk made for MEC.Conf 2023. 1 hr talk. 4 fredoms, Why Free Software, RMS, ways to get started etc.",
@@ -72,11 +72,15 @@ var talks = [
     parent_link: "",
   },
   {
-    title: "Memoraide",
+    title: "Memoraide: Pitch deck",
     link: "memoraide/memoraide_pitch_deck.pdf",
     description:
       "Pitch deck for Memoraide: Mobile App + ecosystem for helping out people with memory issues. Product built with great help from Nayana Vinod, Gokulnath and Sharat Jacob",
-    tags: ["Pitch", "Mobile App", "Memory"],
+    tags: ["Pitch", "Mobile App", "Memory", "teamwork"],
+    links: [
+      "https://github.com/aldrinjenson/memoraide/tree/main/demo/videos",
+      "https://github.com/aldrinjenson/memoraide",
+    ],
     parent_link: "",
   },
   // {
@@ -86,20 +90,30 @@ var talks = [
   //   tags: ["Environment", "Waste"],
   //   parent_link: "",
   // },
-  // {
-  //   title: "Aqua Harvest",
-  //   link: "aqua-harvest/aqua-harvest.pdf",
-  //   description: "Harvesting aquatic resources responsibly.",
-  //   tags: ["Harvesting", "Aquatic"],
-  //   parent_link: "",
-  // },
-  // {
-  //   title: "Agile Workshop",
-  //   link: "agile-workshop/agile-workshop.pdf",
-  //   description: "Adopting Agile methodologies.",
-  //   tags: ["Agile", "Methodologies"],
-  //   parent_link: "",
-  // },
+  {
+    title: "AquaHarvest: Sustainable Fish Farm cultivation",
+    link: "aqua-harvest/aqua-harvest.pdf",
+    description:
+      "Pitch deck for AquaHarvest project. Made for BeachHack 2022. This project won the second prize :)",
+    tags: ["nature", "hackathon", "teamwork"],
+    parent_link: "",
+  },
+  {
+    title: "Firebase 101",
+    link: "firebase-101/firebase-101.pdf",
+    description:
+      "Session taken by me and Adithya for Google Developer Student Club MEC",
+    tags: ["Agile", "Methodologies", "workshop"],
+    parent_link: "",
+  },
+  {
+    title: "Agile Workshop",
+    link: "agile-workshop/agile-workshop.pdf",
+    description:
+      "Session for IEDC tech team regarding Agile methodologies. Slides made with great help from Arti Bhatia",
+    tags: ["Agile", "Methodologies", "session"],
+    parent_link: "",
+  },
   // {
   //   title: "Touriste Setu",
   //   link: "touriste-setu/touriste-setu.pdf",
