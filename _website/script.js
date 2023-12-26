@@ -40,7 +40,7 @@ function createTalkEntry(title, link, description, tags, date, isLastTalk) {
   return listItem;
 }
 
-const generateTalks = () => {
+const generateTalks = (talks) => {
   const talkList = document.getElementById("talkList");
   talks.forEach(function (talk, index) {
     const isLastTalk = index === talks.length - 1;

@@ -1,4 +1,4 @@
-var talks = [
+const talks = [
   {
     title: "Introduction to FOSS and Why You Should care",
     link: "introduction-to-foss/",
@@ -83,19 +83,13 @@ var talks = [
     ],
     parent_link: "",
   },
-  // {
-  //   title: "Waste Not",
-  //   link: "waste-not/waste-not.pdf",
-  //   description: "Minimizing waste for a better environment.",
-  //   tags: ["Environment", "Waste"],
-  //   parent_link: "",
-  // },
+
   {
     title: "AquaHarvest: Sustainable Fish Farm cultivation",
     link: "aqua-harvest/aqua-harvest.pdf",
     description:
       "Pitch deck for AquaHarvest project. Made for BeachHack 2022. This project won the second prize :)",
-    tags: ["nature", "hackathon", "teamwork"],
+    tags: ["nature", "hackathon", "teamwork", "pitch"],
     parent_link: "",
   },
   {
@@ -119,6 +113,13 @@ var talks = [
   //   link: "touriste-setu/touriste-setu.pdf",
   //   description: "Building bridges for tourism.",
   //   tags: ["Tourism", "Bridges"],
+  //   parent_link: "",
+  // },
+  // {
+  //   title: "Waste Not",
+  //   link: "waste-not/waste-not.pdf",
+  //   description: "Minimizing waste for a better environment.",
+  //   tags: ["Environment", "Waste"],
   //   parent_link: "",
   // },
 ];
