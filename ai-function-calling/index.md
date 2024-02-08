@@ -11,14 +11,36 @@ size: 16:9
 
 # Function **Calling**
 
-Unraveling the magic
+<!-- Unraveling the magic -->
 
 <!-- Good evening -->
 <!-- Let's learn about something new today! -->
 
 ---
 
-![w:800](image-3.png)
+## LLMS
+
+What they are good at
+
+---
+
+![h:600](image-10.png)
+
+---
+
+JSON Mode
+
+![h:600](image-9.png)
+
+---
+
+Using Function prototypes
+
+![h:600](image-11.png)
+
+---
+
+![h:600](image-4.png)
 
 ---
 
