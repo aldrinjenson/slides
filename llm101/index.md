@@ -59,8 +59,12 @@ footer: "[@aldrinjenson](https://www.aldrinjenson.tech)"
 
 ## **Gen-AI**
 
-<!-- talk about Devin -->
-<!-- talk about Sora -->
+- OpenAI?
+- Devin ?
+- SORA?
+  ...
+  <!-- talk about Devin -->
+  <!-- talk about Sora -->
 
 ---
 
@@ -212,6 +216,8 @@ Any questions.?
 ## Using LLMs to code!
 
 ---
+
+Let's goooo
 
 ---
 
