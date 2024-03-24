@@ -24,6 +24,31 @@ footer: "[@aldrinjenson](https://www.aldrinjenson.tech)"
 
 ---
 
+## Quick questions before we start
+
+---
+
+1. How many students here?
+<!-- whic course -->
+
+---
+
+2. How many of you here are from Kerala?
+
+---
+
+3. how many have some background in AI/ML?
+
+---
+
+4. How many here knows python?
+
+---
+
+5. How may knows Html/CSS ?
+
+---
+
 # Introduction to
 
 # **Large Language Models**
@@ -187,6 +212,12 @@ Any questions.?
 ## Using LLMs to code!
 
 ---
+
+---
+
+## Prompting
+
+![h:540](static/tetragon/2024-03-24-07-27-48.png)
 
 ---
 
