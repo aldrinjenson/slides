@@ -135,22 +135,68 @@ Still room to improve
 
 ---
 
+## Single GPU instance
+
+![w:990](image-19.png)
+
+---
+
+5 seconds for 6 requests
+only using 6 GB of GPU
+
+---
+
+![w:900](image-18.png)
+
+---
+
+![w:800](image-20.png)
+splitting up requests
+
+---
+
+![w:800](image-21.png)
+final_final_final.sh
+
+---
+
+| num requests | num_containers | time taken(s) |
+| ------------ | -------------- | ------------- |
+| 20           | 1              | 18            |
+| 20           | 2              | 10            |
+| 20           | 3              | 9             |
+| 20           | 4              | 10            |
+| 20           | 5              | 10            |
+| 40           | 1              | 39            |
+| 40           | 2              | 20            |
+| 40           | 5              | 20            |
+
+---
+
+## Next steps
+
+---
+
+_insert catchy Call to Action here_
+
+---
+
 # Thank You✨
 
 <div class="columns">
-<div style="margin-right:55px;">
+<!-- <div style="margin-right:55px;"> -->
 
-### Resources
+<!-- ### Resources -->
 
-<ul clas="left-align">
-  <li class="small-text"> www.gnu.org/gnu/manifesto.html </li> 
+<!-- <ul clas="left-align">
+  <li class="small-text"> www.gnu.org/gnu/manifesto.html </li>
   <li class="small-text"> www.debian.org/ </li>
   <li class="small-text"> www.fsf.org/ </li>
   <li class="small-text"> www.youtube.com/watch?v=vwG5N8SCmZ8 </li>
   <li class="small-text"> indiafoss.net/2023 </li>
   <li class="small-text"> en.wikipedia.org/wiki/Free_software_movement </li>
   <li class="small-text"> slides.aldrinjenson.tech/introduction-to-foss/ </li>
-</ul>
+</ul> -->
 </div>
 <hr >
 
