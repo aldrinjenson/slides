@@ -1,0 +1,116 @@
+.text-center {
+  text-align: center;
+}
+
+.heading {
+  text-align: center;
+}
+
+.sub-heading {
+  text-align: center;
+  padding: 1% 7% 2% 7%;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.separator {
+  width: 50%;
+  margin: 10px 0;
+}
+
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  box-sizing: border-box;
+  overflow-y: scroll;
+  padding: 3%;
+  padding-bottom: 5%;
+}
+
+.light-theme {
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.dark-theme {
+  background-color: #333;
+  color: #f4f4f4;
+}
+
+.talk-container {
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.talk-bottom-border {
+  border-bottom: 1px solid #ddd;
+}
+
+.talk {
+  margin-bottom: 20px;
+  cursor: pointer;
+  padding-bottom: 10px;
+}
+
+h2 {
+  margin-bottom: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.description {
+  color: #555;
+  margin-top: 5px;
+}
+
+.tags {
+  color: #777;
+  margin-top: 5px;
+  text-transform: capitalize;
+}
+
+/* Additional styles for the dark theme */
+.dark-theme h1,
+.dark-theme .talk-container {
+  color: #f4f4f4;
+}
+
+.dark-theme .talk {
+  border-bottom: 1px solid #555;
+}
+
+.dark-theme a {
+  color: #66afe9;
+}
+
+.dark-theme a:hover {
+  text-decoration: underline;
+}
+
+.toggle-btn {
+  align-self: flex-start;
+  background-color: var(--button-bg);
+  color: var(--button-text);
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
