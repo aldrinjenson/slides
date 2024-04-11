@@ -108,6 +108,22 @@ const talks = [
     tags: ["Agile", "Methodologies", "session"],
     parent_link: "",
   },
+  {
+    title: "Ollama Experiments",
+    link: "ollama-experiments",
+    description:
+      "Session on trying to get every drop of the raw GPU power to run parallel Ollama instances!",
+    tags: ["olllama", "llm", "gen-ai", "GPU", "learn&share"],
+    parent_link: "",
+  },
+  {
+    title: "Agentic Workflow",
+    link: "agentic-workflow",
+    description:
+      "Session on LLM Agents, Multi-Agent workflows, some research backing their benefits etc.",
+    tags: ["LLM", "Agents", "Multi-Agent", "learn&share"],
+    parent_link: "",
+  },
   // {
   //   title: "Touriste Setu",
   //   link: "touriste-setu/touriste-setu.pdf",

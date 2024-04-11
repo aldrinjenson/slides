@@ -1,33 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Slides | Aldrin Jenson</title>
+    <link rel="stylesheet" type="text/css" href="_website/styles.css" />
+  </head>
 
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Slides | Aldrin Jenson</title>
-  <link rel="stylesheet" type="text/css" href="_website/styles.css">
-</head>
+  <body>
+    <div class="talk-container">
+      <h1 class="heading">Slides Cache - Talk Archive</h1>
 
-<body>
-  <div class="talk-container">
-    <h1 class="heading">Slides Cache - Talk Archive</h1>
+      <p class="sub-heading">
+        I am grateful to have received some opportunities to share insights
+        through talks, workshops, and presentations. This page features slides
+        from some of these moments, created as an easy references for interested
+        minds.
+      </p>
 
-    <p class="sub-heading">I am grateful to have received some opportunities to share insights through talks, workshops,
-      and presentations. This page features slides from some of these moments, created as an easy references for
-      interested minds.</p>
+      <ol id="talkList" style="margin-top: 5%">
+        <!-- filled in by JS -->
+      </ol>
 
-    <ol id="talkList" style="margin-top: 5%;">
-      <!-- filled in by JS -->
-    </ol>
+      <div class="footer">
+        <hr class="separator" />
+        <span
+          >Built with ❤️ by <a href="https://aldrinjenson.com">Aldrin</a>
+        </span>
+        <button class="toggle-btn" onclick="toggleTheme()">Toggle Theme</button>
+      </div>
 
-
-    <div class="footer">
-      <hr class="separator">
-      <span>Built with ❤️</span>
-      <button class="toggle-btn" onclick="toggleTheme()">Toggle Theme</button>
-    </div>
-
-    <!-- <div class="footer">
+      <!-- <div class="footer">
       <button class="toggle-btn" onclick="toggleTheme()">Toggle Theme</button>
       <span>Built with ❤️</span>
     </div>
@@ -38,13 +41,11 @@
       <span style="align-self: center;">Built with ❤️</span>
     </div> -->
 
-
-    <script src="_website/content.js"></script>
-    <script src="_website/script.js"></script>
-    <script>
-      generateTalks(talks)
-    </script>
-  </div>
-</body>
-
+      <script src="_website/content.js"></script>
+      <script src="_website/script.js"></script>
+      <script>
+        generateTalks(talks);
+      </script>
+    </div>
+  </body>
 </html>
