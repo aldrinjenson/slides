@@ -1,0 +1,42 @@
+/*
+@theme custom
+*/
+
+@import "uncover";
+.dark {
+  filter: invert(100%);
+  background-color: red;
+}
+section {
+  /* background-image: url(bg.jpg); */
+  background-image: url(blueWithCorners.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.columns {
+  display: flex;
+  /* flex-wrap: wr; */
+  justify-content: center;
+  /* align-items: center; */
+  /* display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem; */
+}
+
+/* 
+:root {
+  --color-background: #ddd;
+  --color-background-code: #ccc;
+  --color-background-paginate: rgba(128, 128, 128, 0.05);
+  --color-foreground: #345;
+  --color-highlight: #99c;
+  --color-highlight-hover: #aaf;
+  --color-highlight-heading: #99c;
+  --color-header: #bbb;
+  --color-header-shadow: transparent;
+} */
+
+/* section { */
+/* background-color: red; */
+/* } */
