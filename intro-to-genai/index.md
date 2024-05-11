@@ -17,56 +17,26 @@ footer: "[@aldrinjenson](https://www.aldrinjenson.tech)"
 <!-- how many in computer science -->
 <!-- how many know python? -->
 
-# Hey folks!✨
+# Hi there✨
 
 <!-- Good evening -->
 <!-- Let's learn about something new today! -->
 
 ---
 
-## Quick questions before we start
+### Introduction to the wonderful world of
+
+## Generative AI
+
+🪄
 
 ---
 
-1. How many students here?
-<!-- whic course -->
+## Mandatory intro
 
 ---
 
-2. How many of you here are from Kerala?
-
----
-
-3. how many have some background in AI/ML?
-
----
-
-4. How many here knows python?
-
----
-
-5. How may knows Html/CSS ?
-
----
-
-# Introduction to
-
-# **Large Language Models**
-
----
-
-## What comes to your mind when you hear the word
-
-## **Gen-AI**
-
-- OpenAI?
-- Devin ?
-- SORA?
-  ...
-  <!-- talk about Devin -->
-  <!-- talk about Sora -->
-
----
+![w:1000](image-8.png)
 
 ---
 
@@ -83,7 +53,7 @@ footer: "[@aldrinjenson](https://www.aldrinjenson.tech)"
 - Volunteer at FOSS United
 
 </div>
-<div style="margin-left:80px;">
+<div style="margin-left:0px;">
 
 ![w:350 ](./aldrin.jpg)
 
@@ -94,15 +64,134 @@ footer: "[@aldrinjenson](https://www.aldrinjenson.tech)"
 
 ---
 
+## Quick questions before we start
+
+---
+
+1. How many here are students?
+<!-- whic course -->
+
+---
+
+2. How many of you here are from Kerala?
+
+---
+
+3. how many have some background in AI/ML?
+
+---
+
+4. How many have already used gen-AI in projects?
+
+---
+
+## Agenda
+
+1. What is generative AI
+2. Comparison with traditional AI systems
+3. Classification of genAI + tools
+4. Why care about Gen-AI
+
+---
+
+## Agenda (contd.)
+
+5. Some prompt engineering tips
+6. Some interesting GenAI based projects
+7. Getting started with GenAI based app development
+8. Security, privacy, ethical issues
+9. Resources
+10. Q&A
+
+---
+
+Lessgoooo
+
+---
+
+# Introduction to
+
+# **Generative AI**
+
+---
+
+What comes to your mind when you hear the word
+
+## **Gen-AI**
+
+?
+
+---
+
+- OpenAI?
+- Devin ?
+
+- SORA?
+- midjourney
+
+#notjustacadburyad.com
+
+<!-- https://www.cognition.ai/introducing-devin -->
+
+<!-- talk about Devin -->
+<!-- talk about Sora -->
+
+---
+
+![w:1100](image-1.png)
+
+---
+
+<!-- seinfield -->
+<!-- https://www.youtube.com/watch?v=M6mD9YzVbZI -->
+
+![w:1100](image.png)
+
+---
+
+![w:1150](image-2.png)
+
+---
+
+![w:1150](image-5.png)
+
+<!-- https://www.microsoft.com/en-us/research/project/vasa-1/ -->
+
+---
+
+![w:1150](image-3.png)
+
+---
+
+![h:650](image-6.png)
+
+---
+
+<!-- bland -->
+
+![w:1150](image-4.png)
+
+<!-- https://www.youtube.com/watch?v=r_Iy0xZ1CYY -->
+
+---
+
+Pause
+
+---
+
+## Getting Started...
+
+---
+
 ![w:1150 ](./diag.png)
 
 ---
 
-![](static/tetragon/2024-03-24-06-56-32.png)
+![](static/images/2024-03-24-06-56-32.png)
 
 ---
 
-![](static/tetragon/2024-03-24-06-57-03.png)
+![](static/images/2024-03-24-06-57-03.png)
 
 ---
 
@@ -110,11 +199,15 @@ footer: "[@aldrinjenson](https://www.aldrinjenson.tech)"
 
 ---
 
-![](static/tetragon/2024-03-24-06-57-41.png)
+![](static/images/2024-03-24-06-57-41.png)
 
 ---
 
 ![w:1150 ](./what.png)
+
+---
+
+![w:750](image-7.png)
 
 ---
 
@@ -126,31 +219,31 @@ Tools & Applications
 
 ## Text Generation
 
-![w:1000](static/tetragon/2024-03-24-07-03-54.png)
+![w:1000](static/images/2024-03-24-07-03-54.png)
 
 ---
 
 ## Image Generation
 
-![](static/tetragon/2024-03-24-07-04-48.png)
+![](static/images/2024-03-24-07-04-48.png)
 
 ---
 
 ## Video Generation
 
-![](static/tetragon/2024-03-24-07-05-17.png)
+![](static/images/2024-03-24-07-05-17.png)
 
 ---
 
 ## Audio Generation
 
-![](static/tetragon/2024-03-24-07-05-41.png)
+![](static/images/2024-03-24-07-05-41.png)
 
 ---
 
 ## Code Generation
 
-![](static/tetragon/2024-03-24-07-06-20.png)
+![](static/images/2024-03-24-07-06-20.png)
 
 ---
 
@@ -160,7 +253,7 @@ Tools & Applications
 
 ---
 
-![](static/tetragon/2024-03-24-07-08-03.png)
+![](static/images/2024-03-24-07-08-03.png)
 
 ---
 
@@ -223,7 +316,7 @@ Let's goooo
 
 ## Prompting
 
-![h:540](static/tetragon/2024-03-24-07-27-48.png)
+![h:540](static/images/2024-03-24-07-27-48.png)
 
 ---
 
