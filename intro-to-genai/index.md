@@ -40,16 +40,16 @@ footer: "[@aldrinjenson](https://www.aldrinjenson.tech)"
 
 ---
 
-## $whoami
+## Aldrin Jenson
 
 <div class="columns">
 
 <div>
 
-## **Aldrin Jenson**
-
 - Software Engineer at **Thoughtworks**
 - Focussing on R&D in **Generative AI**
+- Graduated from **MEC**
+- Passionate about building cool software
 - Volunteer at FOSS United
 
 </div>
@@ -96,12 +96,10 @@ footer: "[@aldrinjenson](https://www.aldrinjenson.tech)"
 
 ## Agenda (contd.)
 
-5. Some prompt engineering tips
-6. Some interesting GenAI based projects
-7. Getting started with GenAI based app development
-8. Security, privacy, ethical issues
-9. Resources
-10. Q&A
+5. Getting started with GenAI based app development
+6. Security, privacy, ethical issues
+7. Conclusion
+8. Q&A
 
 ---
 
@@ -112,6 +110,10 @@ Lessgoooo
 # Introduction to
 
 # **Generative AI**
+
+---
+
+question
 
 ---
 
@@ -175,6 +177,18 @@ What comes to your mind when you hear the word
 
 ---
 
+![h:600](image-14.png)
+
+<!-- https://cdn1.suno.ai/193b9cc8-a0d7-478b-9d88-5369e2e7366b.mp4 -->
+
+---
+
+![h:600](image-15.png)
+
+<!-- https://cdn1.suno.ai/e58889e3-6989-4b2e-97d8-a05f74bb6836.mp4 -->
+
+---
+
 Pause
 
 ---
@@ -209,7 +223,7 @@ Pause
 
 ![w:750](image-7.png)
 
----
+## <!-- Diesel Engine -->
 
 ## Classifications
 
@@ -257,6 +271,10 @@ Tools & Applications
 
 ---
 
+![w:1100](image-9.png)
+
+---
+
 - Printing Process(~1450)
 - Electricity(~1880)
 - Assembly Line(~1930)
@@ -269,54 +287,101 @@ Tools & Applications
 
 ---
 
-- Any questions so far?
+Pause...
 
 ---
 
-## What are LLMs
-
-<!-- ask people -->
+## Developing GenAI apps 🪄
 
 ---
 
-- **Very large** AI models designed to understand and generate **human-like text**
+![w:800](image-10.png)
+
+https://platform.openai.com/
+
+<!-- https://colab.research.google.com/drive/1y8FyIi7tH6zg8bZf7O7v7Rn962MQmNuO?usp=sharing -->
 
 ---
 
-- applications include natural language understanding, text generation, translation, summarization etc
-- multiple layers of neural networks, typically utilizing transformer architectures.
+![w:900](image-11.png)
+
+https://ai.google.dev/
 
 ---
 
-## Few major examples
+![w:1050](image-12.png)
 
-- ChatGPT
-- https://indicsubtitler.in/livetranscribe
-- https://www.chatpdf.com/
-- https://www.perplexity.ai/
-- https://cursor.sh
+https://ollama.ai ( demo )
 
 ---
 
-Any questions.?
+![w:1000](image-13.png)
 
 ---
 
-## Now
+## There’s so much more to explore!
 
 ---
 
-## Using LLMs to code!
+- Langchain/LlamaIndex
+- Vector Databases
+- RAG
+- Fine-Tuning
+- Hybrid Search
+- REFT/PEFT/LORA
+- Stable Diffusion
+  ...
 
 ---
 
-Let's goooo
+Pause...
 
 ---
 
-## Prompting
+## Ethics and Privacy
 
-![h:540](static/images/2024-03-24-07-27-48.png)
+---
+
+<div class="columns">
+
+<div>
+
+![w:500](image-16.png)
+
+</div>
+<div>
+
+![w:500](image-17.png)
+
+</div>
+</div>
+
+---
+
+![w:1050](image-18.png)
+
+---
+
+![w:1100](image-19.png)
+
+---
+
+![w:900](image-20.png)
+
+## <!-- https://replicate.com/yoyo-nb/thin-plate-spline-motion-model -->
+
+---
+
+- Increase in scams
+- Bias and stereotypes in results
+- Toxicity and hatespeech
+- Hallucination issues
+- Privacy issues
+  ...
+
+---
+
+Pause..
 
 ---
 
@@ -324,19 +389,20 @@ Let's goooo
 
 ---
 
----
-
 # Thank You✨
 
 <div class="columns">
-<div style="margin-right:55px;">
+<div style="margin-right:2rem;">
 
-### Shout out to
+![w:300](image-21.png)
 
-- Sree Laxmi
-- Srilakshmi
-- IB Computing
-- Titty Jacob Sir(MEC)
+https://bit.ly/feedback_aj
+
+<!-- ### Shout out to
+
+- Thoughtworks Technologies
+- Titty Sir
+- Karrtik Iyer -->
 
 </div>
 <hr >
@@ -345,22 +411,11 @@ Let's goooo
 
 ## **@aldrinjenson**
 
-<u>aldrinjenson.tech</u>
+<u>aldrinjenson.com</u>
 
 </div>
 </div>
 <br/>
 <p style="font-size:29px;">This presentation was built using Free Software!</p>
-
----
-
-# Resources
-
-- https://www.gnu.org/gnu/manifesto.html
-- https://www.debian.org/
-- https://www.fsf.org/
-- https://www.youtube.com/watch?v=vwG5N8SCmZ8
-- https://indiafoss.net/2023
-- https://en.wikipedia.org/wiki/Free_software_movement
 
 ---

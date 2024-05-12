@@ -16,6 +16,7 @@ section {
 
 .columns {
   display: flex;
+  gap: 1rem;
   /* flex-wrap: wr; */
   justify-content: center;
   /* align-items: center; */
