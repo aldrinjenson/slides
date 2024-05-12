@@ -252,22 +252,11 @@ Let's goooo
 
 ## **@aldrinjenson**
 
-<u>aldrinjenson.tech</u>
+<u>aldrinjenson.com</u>
 
 </div>
 </div>
 <br/>
 <p style="font-size:29px;">This presentation was built using Free Software!</p>
-
----
-
-# Resources
-
-- https://www.gnu.org/gnu/manifesto.html
-- https://www.debian.org/
-- https://www.fsf.org/
-- https://www.youtube.com/watch?v=vwG5N8SCmZ8
-- https://indiafoss.net/2023
-- https://en.wikipedia.org/wiki/Free_software_movement
 
 ---

@@ -1,5 +1,21 @@
 const talks = [
   {
+    title: "Introduction to Generative AI",
+    link: "intro-to-genai/",
+    description:
+      "Introduction to Generative AI talk as given for Google Develoepr Student Club (GDSC) Kerala's WOW event",
+    tags: ["gen-ai"],
+    parent_link: "",
+  },
+  {
+    title: "Introduction to LLMs",
+    link: "llm101/",
+    description:
+      "Slides for workshop on Large Language Models(LLMS) as taken in FOSSMeet'24 at NIT Calicut",
+    tags: ["FOSS", "llm", "workshop"],
+    parent_link: "",
+  },
+  {
     title: "Introduction to FOSS and Why You Should care",
     link: "introduction-to-foss/",
     description:

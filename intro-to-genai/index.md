@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: custom
-title: Introduction to LLMs
+title: Introduction to Gen-AI
 description: Talk to introduce everyone to GenAI and LLMs
 author: Aldrin Jenson
 keywords: [FOSS, Introduction, LLM, GenAI]
