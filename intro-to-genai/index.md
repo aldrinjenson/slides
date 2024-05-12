@@ -396,7 +396,7 @@ Pause..
 
 ![w:300](image-21.png)
 
-https://bit.ly/feedback_aj
+bit.ly/feedback_aj
 
 <!-- ### Shout out to
 
@@ -407,7 +407,7 @@ https://bit.ly/feedback_aj
 </div>
 <hr >
 
-<div >
+<div style="margin-top:4rem;">
 
 ## **@aldrinjenson**
 
