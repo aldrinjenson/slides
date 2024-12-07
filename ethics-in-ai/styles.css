@@ -12,8 +12,8 @@ section {
   /* background-image: url(bg2.png); */
   /* background-image: url(minimal-bg.png); */
   /* background-image: url(minimalBlue.png); */
-  /* background-image: url(blueWithCorners.png); */
-  background-image: url(blue.png);
+  background-image: url(blueWithCorners.png);
+  /* background-image: url(blue.png); */
   background-size: cover;
   background-repeat: no-repeat;
 }
