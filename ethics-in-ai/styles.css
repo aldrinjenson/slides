@@ -1,0 +1,44 @@
+/*
+@theme custom
+*/
+
+@import "uncover";
+.dark {
+  filter: invert(100%);
+  background-color: red;
+}
+section {
+  /* background-image: url(bg.jpg); */
+  /* background-image: url(bg2.png); */
+  /* background-image: url(minimal-bg.png); */
+  /* background-image: url(minimalBlue.png); */
+  /* background-image: url(blueWithCorners.png); */
+  background-image: url(blue.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.columns {
+  display: flex;
+  /* flex-wrap: wr; */
+  justify-content: center;
+  /* align-items: center; */
+  /* display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem; */
+}
+
+.small-text{
+  font-size: 18px;
+
+}
+.left-align{
+  text-align: left;
+}
+
+
+.cols {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
