@@ -1,0 +1,320 @@
+Hello everyone
+
+this talk is going to be about ideas and how to build them to fruition using generative ai
+
+---
+
+
+
+---
+
+I believe that at some point in our lives, each one of us would have had some ideas,
+
+ideas that we wanted to see materialize in the world, but we just couldn't see that to completion due to several reasons.
+
+---
+
+# Building with **GenAI**
+Practical Insights learned from real-world experiments
+
+---
+
+---
+
+
+
+---
+
+these are all in a way simple ideas
+
+ideas made for fun, ideas which are useful
+
+and i'm sure there would be many more such ideas that each one of use could have had
+
+and with this talk, im' going to talk about some approaches and mindset shifts
+
+which will make you realize your ideas to fruition as well
+
+---
+
+and the way we are going to do it is by:
+
+in doing so we will
+
+ofc be discussing a bit about llms, ai
+
+---
+
+
+
+---
+
+
+
+---
+
+https://www.linkedin.com/in/aldrinjenson/
+
+---
+
+Agenda
+
+- few projects i've made and the realisations i were able to gain from it
+- idea is to show that gen-ai is making people independet o build out their ideas
+- we'll be breaking down how generative ai apps are made and tools available to fast track the proces
+
+---
+
+
+
+---
+
+
+
+---
+
+take notes/ bunch of text
+
+extract key points
+
+sort them and arrange in a structured hierarchy
+
+put them into powerpoint
+
+add some nice styles
+
+export as pdf
+
+---
+
+this is actually a pain point
+
+example of mum typing notes and then later having to make slides which is hard
+
+---
+
+
+
+---
+
+
+
+---
+
+not easy to answer. depends on the context in which people use it
+
+chatgpt.com is a website where a web application is shown
+
+when you type in a query, the results are sent to a different program
+
+like a function
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+model switcher
+
+---
+
+recap
+
+---
+
+now let;s ask another question
+
+see how some words are bolded
+
+travel plans
+
+---
+
+
+
+---
+
+what is markdown
+
+---
+
+markdown in whatsapp
+
+---
+
+
+
+---
+
+structured markdown format for ai question
+
+---
+
+output of the above
+
+---
+
+marp intro
+
+---
+
+claude computer use
+
+gptppt
+
+---
+
+gptppt output
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+<p style="font-size:29px;">This presentation was built using Free Software 🤗</p>

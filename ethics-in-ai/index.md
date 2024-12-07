@@ -1,27 +1,89 @@
 ---
 marp: true
 theme: custom
-title: GPT Function Calling
-description: Short PPT on what AI function calling is and how you can get started with it. This talk goes on to explain function calling from a foundational level and show how you can implement it on your own
+title: Building your dreams with GenAI
+description: Practical insights from real-world experiments - showing you how you can build your ideas with GenAI
 author: Aldrin Jenson
-keywords: [AI, LLM, GPT]
+keywords: [AI, LLM, GPT, GenAI]
 paginate: true
 size: 16:9
 ---
 
 
 <!-- Hello everyone -->
-<!-- this talk is going to be about ideas and how to build them to fruition using generative ai -->
+<!-- good afternoon to you all -->
+<!-- this talk is going to be about ideas, -->
+<!-- ideas and how to build them  -->
+<!-- ideas and how to build them using generative ai -->
+
+<!-- let's start with a common problem that everyone faces -->
+
+# Turning Ideas into Reality with GenAI
+Lessons learned from building real-world projects with AI
+
+Aldrin Jenson
+
+---
+<!-- google maps for hmt to lulu mall -->
+
+![w:1050](image-35.png)
 
 ---
 
-# Building your dreams with **GenAI**
+<div style="text-align: center">
+  <video loop muted width="1000" controls>
+    <source src="sitinshade.mp4" type="video/mp4">
+    Your browser does not support the video element.
+  </video>
+</div>
+
+https://sitinshade.com
+
+---
+
+
+<!-- 17-yo cursor and remotion-->
+![w:500](image-29.png)
+
+---
+
+
+audio pen
+![w:900](image-36.png)
+
+---
+
+<!-- audio pen landing -->
+![w:1000](image-37.png)
+
+---
+<!-- bubble.io -->
+![w:800](image-38.png)
+
+---
+
+![w:1000](image-39.png)
+
+---
+
+---
+
+Not an isolated phenomenon
 
 ---
 
 <!-- I believe that at some point in our lives, each one of us would have had some ideas, -->
 <!-- ideas that we wanted to see materialize in the world, but we just couldn't see that to completion due to several reasons.-->
 
+
+Motivation
+
+---
+<!-- 
+> "No army can withstand the strength of an idea whose time has come."
+> – Victor Hugo
+
+--- -->
 
 ### Now is the **best time ever** to build your ideas
 
@@ -33,12 +95,18 @@ Practical Insights learned from real-world experiments
 
 --- -->
 
+
+
+<!-- Kerala dam water levels -->
+![w:1000](image-30.png)
+
+https://ksebwaterlevels.com
+
 ---
 
-Let me start with some examples
-
-- sitinshade.com
-- some kerlaa stuff
+<!-- kseb water levels og website -->
+![w:1000](image-31.png)
+https://amithv.xyz
 
 ---
 
@@ -50,13 +118,19 @@ Let me start with some examples
 
 ---
 
+# Turning Ideas into Reality with GenAI
+Lessons learned from real-world project building
+
+---
+
 
 ## Agenda
 
 <!-- and the way we are going to do it is by:  -->
 
-- looking at problem statements
-- breaking down real life projects
+- look at real-world problem statements
+- breaking them down and build with genai
+- learn about concepts, tools and techniques
 
 <!-- in doing so we will -->
 <!-- ofc be discussing a bit about llms, ai  -->
@@ -64,11 +138,11 @@ Let me start with some examples
 
 ---
 
-## Why should you care?
+## But Why?
 
 - you'll be thinking about problems in a differnet way
 - you'll be so much more equipped with gen-ai 
-- you'll be in a much better state to use gen-ai to go start building your ideasQ
+- you'll be in a much better position to use gen-ai to start building your ideas
 
 ---
 
@@ -88,8 +162,6 @@ Let me start with some examples
 - Product Engineer at **Athena Intelligence**
 - R&D at **Thoughtworks Technologies**
 - Alumni from **Govt. Model Engineering College**
-
-
 <!-- https://www.linkedin.com/in/aldrinjenson/ -->
 
 </div>
@@ -103,6 +175,7 @@ Let me start with some examples
 </div>
 
 ---
+
 
 
 #### let's begin.
@@ -152,6 +225,9 @@ What is the actual process?
 - an AI?
 - a Large language Model?
 - some Framework?
+
+
+---
 
 <!-- not easy to answer. depends on the context in which people use it -->
 <!-- chatgpt.com is a website where a web application is shown -->
@@ -234,6 +310,17 @@ A Function
 
 ---
 
+![w:800](image-40.png)
+
+---
+
+![w:1000](image-41.png)
+
+https://quickdeck.app/
+
+
+---
+
 <!-- claude computer use -->
 
 <!-- gptppt -->
@@ -247,65 +334,30 @@ A Function
 
 ---
 
-![w:900](image-25.png)
+![w:800](image-25.png)
+
+https://github.com/aldrinjenson/gptppt
 
 ---
 
 
 
----
+## Pause.
 
-## Recap
-
----
-
-
----
-
-![w:1000](image-13.png)
-
-
----
-
-## How can AI help? 
-
----
-
-## Chatgpt can **_understand_** language!
-
----
-
-
-
----
-
-
-## Steps
-
-- input notes to chatgpt 
-- use chatgpt to extract key points in markdown
-- pass in markdown to traditional marp 
-- build some nice ui around it to make it look nice
-
+<!-- all the info from chatgpt itself! -->
 ---
 
 ## References
 
-- chatgpt
-- marp
-- streamlit
-- python
+- https://chatgpt.com/
+- https://marp.app/
+- https://streamlit.io/
+- https://www.python.org/
 
 ---
 
 
 Realization: Enhances / complements your skills!
-
-
----
-
-
-Breathe...
 
 ---
 
@@ -315,14 +367,52 @@ Bbbut this involves programming!
 
 ## Problem statement 2
 
+### Flashcards
+
 ---
+
+How would you solve this?
+
+---
+
+<!-- what is spaced repetition -->
+![w:700](image-45.png)
+
+---
+
+![w:700](image-46.png)    
+
+---
+
+![w:800](image-44.png)
+
+---
+
+![w:700](image-47.png)
+
+---
+
+## Method 2
+
+---
+
+
+![w:1000](image-49.png)
+
+---
+
+![w:700](image-48.png)
+
+https://www.anthropic.com/news/claude-3-5-sonnet
+
+---
+
+<!-- spaced repetition -->
 
 ![w:1100](claude-flash-prompt.png)
 
-
 ---
 
-<h1>Flashcards</h1>
 
 <video autoplay loop muted>
   <source src="flashcard-demo.mp4" type="video/mp4">
@@ -341,6 +431,24 @@ https://claude.ai/chat/d586f82c-baec-4842-91f2-014985a15371
 ---
 
 Realization: Independence!
+
+---
+
+
+## Resources
+
+https://claude.ai/
+
+https://www.perplexity.ai/
+
+
+---
+
+![w:700](image-50.png)
+
+---
+
+Moving on...
 
 ---
 
@@ -363,13 +471,20 @@ https://suno.com/
 
 ---
 
+<!-- chalthe chalthe -->
+![h:550](image-26.png)
 
-<div style="margin: 40px 0; text-align: center">
+<div style="margin: ; text-align: center">
   <audio controls>
     <source src="audio/chalthe-chalthe.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
 </div>
+
+---
+
+<!-- jd farewell -->
+![w:800](image-27.png)
 
 ---
 
@@ -382,6 +497,30 @@ Few other crazy things people have been doing with AI
 
 ---
 
+
+<!-- roast friend message -->
+![h:700](image-32.png)
+
+---
+
+<div style="text-align: center">
+  <video controls width="400">
+    <source src="roastYourFriendDemo_trimmed.mp4" type="video/mp4">
+    Your browser does not support the video element.
+  </video>
+</div>
+
+---
+
+<!-- Voice agent for Fashoin -->
+![h:500](image-34.png)
+http://x.com/aldrinjenson/status/1797706930372407734
+
+---
+
+![h:550](image-33.png)
+
+https://indicsubtitler.in/
 
 ---
 
