@@ -21,7 +21,7 @@ size: 16:9
 # Turning Ideas into Reality with GenAI
 Lessons learned from building real-world projects with AI
 
-Aldrin Jenson
+**Aldrin Jenson**
 
 ---
 <!-- google maps for hmt to lulu mall -->
@@ -128,9 +128,9 @@ Lessons learned from real-world project building
 
 <!-- and the way we are going to do it is by:  -->
 
-- look at real-world problem statements
-- breaking them down and build with genai
-- learn about concepts, tools and techniques
+Real-world problem statements
+Break them down and see how we can solve with GenAI
+Learn about concepts, tools and techniques
 
 <!-- in doing so we will -->
 <!-- ofc be discussing a bit about llms, ai  -->
@@ -140,12 +140,14 @@ Lessons learned from real-world project building
 
 ## But Why?
 
-- you'll be thinking about problems in a differnet way
-- you'll be so much more equipped with gen-ai 
-- you'll be in a much better position to use gen-ai to start building your ideas
+- You'll be thinking about problems in a differnet way
+- You'll be so much more equipped with gen-ai 
+- You'll be in a much better position to use gen-ai to start building your ideas
 
 ---
 
+
+--
 
 ---
 
@@ -159,7 +161,7 @@ Lessons learned from real-world project building
 <br>
 
 
-- Product Engineer at **Athena Intelligence**
+- Product Engineer at **Athena Intelligence**, New York
 - R&D at **Thoughtworks Technologies**
 - Alumni from **Govt. Model Engineering College**
 <!-- https://www.linkedin.com/in/aldrinjenson/ -->
@@ -198,12 +200,14 @@ Lessons learned from real-world project building
 
 What is the actual process?
 
-<!-- take notes/ bunch of text -->
-<!-- extract key points -->
-<!-- sort them and arrange in a structured hierarchy -->
-<!-- put them into powerpoint -->
-<!-- add some nice styles -->
-<!-- export as pdf -->
+---
+
+- take notes
+- extract key points
+- sort them and arrange in a structured hierarchy
+- put them into powerpoint
+- add some nice styles / theme
+- export as pdf
 
 ---
 
@@ -218,6 +222,10 @@ What is the actual process?
 
 ---
 
+<!-- but now what? -->
+what about styling?
+
+---
 ## What exactly is **chatGPT**?
 
 ---
@@ -232,7 +240,10 @@ What is the actual process?
 <!-- not easy to answer. depends on the context in which people use it -->
 <!-- chatgpt.com is a website where a web application is shown -->
 <!-- when you type in a query, the results are sent to a different program -->
+
 <!-- like a function -->
+
+What's a Model?  <!-- what is a function? -->
 
 ---
 
@@ -260,6 +271,8 @@ A Function
 
 <!-- recap -->
 
+the hierarchy 
+
 ---
 
 
@@ -271,7 +284,16 @@ A Function
 
 ---
 
+![w:700](image-54.png)
+
+---
+
 ### Markdown
+
+---
+
+<!-- markdown in whatsapp -->
+![w:900](image-19.png)
 
 ---
 
@@ -280,11 +302,6 @@ A Function
 
 ---
 
-
-<!-- markdown in whatsapp -->
-![w:900](image-19.png)
-
----
 
 
 <!-- structured markdown format for ai question -->
@@ -296,6 +313,7 @@ A Function
 
 <!-- output of the above -->
 ![w:700](image-21.png)
+
 
 ---
 
@@ -336,6 +354,9 @@ https://github.com/aldrinjenson/gptppt
 ---
 
 
+ChatGPT can do so much more than writing jokes and poems
+
+---
 
 ## Pause.
 
@@ -351,29 +372,36 @@ https://github.com/aldrinjenson/gptppt
 
 ---
 
-
 Realization: Enhances / complements your skills!
 
 ---
 
-Bbbut this involves programming!
+<!-- Bbbut this involves programming! -->
 
----
+<!-- --- -->
 
 ## Problem statement 2
 
-### Flashcards
+### Flashcards & Spaced Repetition
+
 
 ---
 
-How would you solve this?
+Problem statement: Easy way to make flashcards
 
 ---
+
+How can we solve this?
+
+---
+
 
 <!-- what is spaced repetition -->
 ![w:700](image-45.png)
 
 ---
+
+### Method 1
 
 ![w:700](image-46.png)    
 
@@ -456,6 +484,8 @@ https://suno.com/
 
 
 
+
+
 ![h:600](kaneer-poovinte.png)
 
 <div style="text-align: center">
@@ -467,6 +497,21 @@ https://suno.com/
 
 ---
 
+<!-- udio -->
+![w:1000](image-51.png)
+
+https://www.udio.com/
+
+
+---
+
+![w:600](image-52.png)
+
+https://github.com/suno-ai/bark
+
+https://elevenlabs.io/
+
+---
 <!-- chalthe chalthe -->
 ![h:550](image-26.png)
 
@@ -495,9 +540,9 @@ Few other crazy things people have been doing with AI
 
 
 <!-- roast friend message -->
-![h:700](image-32.png)
+<!-- ![h:700](image-32.png) -->
 
----
+<!-- --- -->
 
 <div style="text-align: center">
   <video controls width="400">
@@ -517,6 +562,80 @@ http://x.com/aldrinjenson/status/1797706930372407734
 ![h:550](image-33.png)
 
 https://indicsubtitler.in/
+
+---
+
+Recap
+
+---
+
+## 3 Main Requirements to build your ideas
+
+---
+
+1. A computer with internet connection
+2. Being curious and exploring possibilities of GenAI
+3. Slightly pushing past your comfort zone
+
+Bend the status quo!
+
+---
+
+
+## Conclusion
+
+---
+
+
+![w:1000](image-56.png)
+
+
+---
+
+
+https://slides.aldrinjenson.com/intro-to-genai/#56
+
+---
+
+- **Now** is the best time to build your ideas!
+- **Slightly adjusting your thought processes** and being willing to **explore possibilities of GenAI** can help you build your ideas to reality
+
+---
+
+> Don't do nothing! 
+
+---
+
+
+# Thank You✨
+
+<div class="columns">
+<div style="margin-right:55px;">
+
+### Shout out to
+
+- Titty Jacob Sir
+- Sreekumar Sir
+
+</div>
+<hr >
+
+<div >
+
+## **@aldrinjenson**
+
+<u>slides.aldrinjenson.com</u>
+
+</div>
+</div>
+<br/>
+<!-- <p style="font-size:29px;">slides.aldrinjenson.com</p> -->
+
+---
+
+![w:800](image-55.png)
+
+---
 
 ---
 
@@ -599,10 +718,4 @@ https://www.heygen.com/
 
 ---
 
-# Thank You✨
-
----
-
-### Resources
-
-<!-- <p style="font-size:29px;">This presentation was built using Free Software 🤗</p> -->
+d
