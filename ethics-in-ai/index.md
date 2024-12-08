@@ -287,11 +287,6 @@ A Function
 ---
 
 
-![w:900](image-12.png)
-
-
----
-
 <!-- structured markdown format for ai question -->
 ![w:900](image-20.png)
 
@@ -413,11 +408,12 @@ https://www.anthropic.com/news/claude-3-5-sonnet
 
 ---
 
-
-<video autoplay loop muted>
-  <source src="flashcard-demo.mp4" type="video/mp4">
-</video>
-
+<div style="text-align: center">
+  <video controls width="1100">
+    <source src="flashcard-demo.mp4" type="video/mp4">
+    Your browser does not support the video element.
+  </video>
+</div>
 
 ---
 
