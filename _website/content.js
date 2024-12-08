@@ -1,7 +1,7 @@
 const talks = [
   {
     title: "Building your ideas with Generative AI",
-    link: "ethics-in-ai",
+    link: "ethics-in-ai/",
     description:
       "Talk about how to use Generative AI to build out your ideas",
     tags: ["gen-ai", "talk", "ideas"],
