@@ -64,7 +64,6 @@ audio pen
 
 ![w:1000](image-39.png)
 
----
 
 ---
 
@@ -110,13 +109,13 @@ https://amithv.xyz
 
 ---
 
-<!-- these are all in a way simple ideas-->
+<!-- - These are all not really complex  -->
 <!-- ideas made for fun, ideas which are useful -->
 <!-- and i'm sure there would be many more such ideas that each one of use could have had -->
 <!-- and with this talk, im' going to talk about some approaches and mindset shifts -->
 <!-- which will make you realize your ideas to fruition as well -->
 
----
+<!-- --- -->
 
 # Turning Ideas into Reality with GenAI
 Lessons learned from real-world project building
@@ -143,11 +142,6 @@ Learn about concepts, tools and techniques
 - You'll be thinking about problems in a differnet way
 - You'll be so much more equipped with gen-ai 
 - You'll be in a much better position to use gen-ai to start building your ideas
-
----
-
-
---
 
 ---
 
@@ -616,6 +610,7 @@ https://slides.aldrinjenson.com/intro-to-genai/#56
 
 - Titty Jacob Sir
 - Sreekumar Sir
+- Binu V.P. Sir
 
 </div>
 <hr >
@@ -637,7 +632,7 @@ https://slides.aldrinjenson.com/intro-to-genai/#56
 
 ---
 
----
+<!-- ---
 
 conclusion:
 - lessons learned
@@ -686,7 +681,7 @@ this is the best time to build!
 ---
 
 
-
+ -->
 
 ---
 
