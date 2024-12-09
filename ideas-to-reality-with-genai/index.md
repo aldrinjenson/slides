@@ -1,8 +1,8 @@
 ---
 marp: true
 theme: custom
-title: Building your dreams with GenAI
-description: Practical insights from real-world experiments - showing you how you can build your ideas with GenAI
+title: Turning Ideas into Reality with GenAI
+description: Lessons Learned from building real-world projects with AI. How you can also turn your ideas into reality using Generative AI.
 author: Aldrin Jenson
 keywords: [AI, LLM, GPT, GenAI]
 paginate: true

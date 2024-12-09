@@ -1,9 +1,9 @@
 const talks = [
   {
-    title: "Building your ideas with Generative AI",
-    link: "ethics-in-ai/",
+    title: "Turning Ideas into Reality with GenAI",
+    link: "ideas-to-reality-with-genai/",
     description:
-      "Talk about how to use Generative AI to build out your ideas",
+      "Talk given for International Conclave on Generative AI and the Future of Education 2.0, 8-10 Dec., 2024. Talks about several lessons Learned from building real-world projects with AI - How one can turn their ideas into reality using Generative AI and assoiated tools",
     tags: ["gen-ai", "talk", "ideas"],
     parent_link: "",
   },
