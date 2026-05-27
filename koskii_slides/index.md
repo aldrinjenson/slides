@@ -53,8 +53,6 @@ https://chrisjohnson111-test4.hf.space/
 
 ![w:1100](image-9.png)
 
-https://drive.google.com/drive/folders/1DrvndgwHbEj-B2D66lXbAxTfyPutTmjV
-
 ---
 
 ![w:1200](image-10.png)
