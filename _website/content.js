@@ -3,7 +3,7 @@ const talks = [
     title: "Turning Ideas into Reality with GenAI",
     link: "ideas-to-reality-with-genai/",
     description:
-      "Talk given for International Conclave on Generative AI and the Future of Education 2.0, 8-10 Dec., 2024. Talks about several lessons Learned from building real-world projects with AI - How one can turn their ideas into reality using Generative AI and assoiated tools",
+      "Talk given for International Conclave on Generative AI and the Future of Education 2.0, 8-10 Dec., 2024. Talks about several lessons Learned from building real-world projects with AI - How one can turn their ideas into reality using Generative AI and associated tools",
     tags: ["gen-ai", "talk", "ideas"],
     parent_link: "",
   },
@@ -11,7 +11,7 @@ const talks = [
     title: "Introduction to Generative AI",
     link: "intro-to-genai/",
     description:
-      "Introduction to Generative AI talk as given for Google Develoepr Student Club (GDSC) Kerala's WOW event",
+      "Introduction to Generative AI talk as given for Google Developer Student Club (GDSC) Kerala's WOW event",
     tags: ["gen-ai"],
     parent_link: "",
   },
@@ -19,7 +19,7 @@ const talks = [
     title: "Introduction to LLMs",
     link: "llm101/",
     description:
-      "Slides for workshop on Large Language Models(LLMS) as taken in FOSSMeet'24 at NIT Calicut",
+      "Slides for workshop on Large Language Models (LLMs) as taken in FOSSMeet'24 at NIT Calicut",
     tags: ["FOSS", "llm", "workshop"],
     parent_link: "",
   },
@@ -27,7 +27,7 @@ const talks = [
     title: "Introduction to FOSS and Why You Should care",
     link: "introduction-to-foss/",
     description:
-      "Introducing FOSS and why folks should care about it. Talk made for MEC.Conf 2023. 1 hr talk. 4 fredoms, Why Free Software, RMS, ways to get started etc.",
+      "Introducing FOSS and why folks should care about it. Talk made for MEC.Conf 2023. 1 hr talk. 4 freedoms, Why Free Software, RMS, ways to get started etc.",
     tags: ["FOSS", "Introduction", "talk"],
     parent_link: "",
   },
@@ -59,7 +59,7 @@ const talks = [
     title: "Anomaly Detection System - Project Pitch",
     link: "anomaly-detection/anomaly-detection.pdf",
     description:
-      "Pitch deck for our Project idea about a general purpose system to detect anomalies in surveilance networks.",
+      "Pitch deck for our Project idea about a general purpose system to detect anomalies in surveillance networks.",
     tags: ["Data Science", "Detection", "ML", "Pitch", "50kGrant"],
     parent_link: "",
   },
@@ -91,7 +91,7 @@ const talks = [
     title: "Mine Dojo: Approaches to build an AGI using minecraft",
     link: "mine-dojo-research/mine-dojo-research.pdf",
     description:
-      "My presentation on the very recent paper of Mine Dojo: Building Embodied Agents  with Internet-Scale Knowledge. The presentation was supposed to be really technical (and hence boring), but I spiced it up with memes and fun anologies to balance out the math :)",
+      "My presentation on the very recent paper of Mine Dojo: Building Embodied Agents  with Internet-Scale Knowledge. The presentation was supposed to be really technical (and hence boring), but I spiced it up with memes and fun analogies to balance out the math :)",
     tags: ["Research-Project", "talk"],
     parent_link: "",
   },
@@ -121,7 +121,7 @@ const talks = [
     link: "firebase-101/firebase-101.pdf",
     description:
       "Session taken by me and Adithya for Google Developer Student Club MEC",
-    tags: ["Agile", "Methodologies", "workshop"],
+    tags: ["Firebase", "GDSC", "workshop"],
     parent_link: "",
   },
   {
@@ -134,15 +134,15 @@ const talks = [
   },
   {
     title: "Ollama Experiments",
-    link: "ollama-experiments",
+    link: "ollama-experiements/",
     description:
       "Session on trying to get every drop of the raw GPU power to run parallel Ollama instances!",
-    tags: ["olllama", "llm", "gen-ai", "GPU", "learn&share"],
+    tags: ["ollama", "llm", "gen-ai", "GPU", "learn&share"],
     parent_link: "",
   },
   {
     title: "Agentic Workflow",
-    link: "agentic-workflow",
+    link: "agentic-workflow/",
     description:
       "Session on LLM Agents, Multi-Agent workflows, some research backing their benefits etc.",
     tags: ["LLM", "Agents", "Multi-Agent", "learn&share"],
